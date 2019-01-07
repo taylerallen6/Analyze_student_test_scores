@@ -12,7 +12,7 @@ def scatter_plot_scores():
 	math_scores = df['math score']
 	reading_scores = df['reading score']
 
-	plt.scatter(math_scores.head(1000), reading_scores.head(1000))
+	plt.scatter(math_scores, reading_scores)
 	plt.plot(range(105), 'r')
 	plt.show()
 
