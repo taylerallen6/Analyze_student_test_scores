@@ -55,3 +55,5 @@ def barchart_ethnicity_scores():
 
 scatter_plot_scores()
 barchart_ethnicity_scores()
+
+#arol forked the code from Tayler Allen
