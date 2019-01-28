@@ -9,7 +9,6 @@
 <h2>Barchart complaring ethnic group scores</h2> 
 <img src="img/bar1.png" alt="Barchart">
 
-<b/>
 
 <h3>Explaining the code</h3>
 <p>First the data is converted to a Dataframe from a csv file.</p>
